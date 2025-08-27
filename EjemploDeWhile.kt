@@ -1,4 +1,4 @@
-/*
+/* //codigo para in ciclo de numeros aleatorios
 fun main (){
     var i=1
     var ciclo =1
@@ -8,7 +8,7 @@ fun main (){
         println("ciclo $ciclo = $i")
         ciclo++
     }
-}*/
+}*/ //codigo para numeros pares e impares
 fun main() {
     var i = 1
     while (i<=100){
